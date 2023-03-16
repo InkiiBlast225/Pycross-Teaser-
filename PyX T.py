@@ -51,7 +51,7 @@ print(rows)
 print(cols)
 print('')
 
-#This code prints the blank format.
+# This code prints the blank format.
 for i in cols:
     newRowCol.append(' ' * (maxLen(cols) - len(i)) + i)
 for i in range(maxLen(cols)):
