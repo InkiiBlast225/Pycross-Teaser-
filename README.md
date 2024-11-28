@@ -1,0 +1,1 @@
+This is a teaser for a picross emulator in a console. The first line are the pixels and the two lines after are the row and column rules. The next couple lines after that are what would be the playing board using the row and column rules. The functional game will come in a while.
